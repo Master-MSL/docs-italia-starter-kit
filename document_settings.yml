@@ -1,7 +1,7 @@
 document:
-  name: Titolo del documento
+  name: Titolo del progetto
   description: |
-    Lorem ipsum dolor sit amet, consectetur 
+    Abstract ... Lorem ipsum dolor sit amet, consectetur 
     adipisicing elit, sed do eiusmod tempor
     incididunt ut labore et dolore magna aliqua. 
     Ut enim ad minim veniam, quis nostrud 
@@ -14,6 +14,10 @@ document:
     culpa qui officia deserunt mollit anim id 
     est laborum.    
   tags:
-    - topic
-    - related topic
-    - amazing project
+    - keywords / topic / hashtag relativi al progetto, uno per riga
+    - valutazione comparativa
+    - dati aperti
+    - gestione del cambiamento
+    - gestione documentale
+    - gestione contributi
+    - compatibilità licenze
